@@ -10,11 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "authorization" : {
     "success": true,
-    "message": "",
-    "userName": "dima",
-    "userCode": "12345"
+"message": "",
+"userName": "dima",
+"userCode": "12345"
   }
 }
