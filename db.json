@@ -1,6 +1,11 @@
-{
-  "authorization2" : {
+{"authorization" : {
     "success": true,
+    "message": "",
+    "userName": "dima",
+    "userCode": "12345"
+  },
+  "authorization2" : {
+    "success": false,
     "message": "",
     "userName": "dima",
     "userCode": "12345"
