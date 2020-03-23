@@ -1,6 +1,6 @@
 {
   "authorization" : {
-    "success": false,
+    "success": true,
     "message": "",
     "userName": "dima",
     "userCode": "12345"
