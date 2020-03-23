@@ -1,43 +1,36 @@
 {
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "authorization" : {
     "success": true,
     "message": "",
     "userName": "dima",
     "userCode": "12345"
   },
-  "comoditySearch12345" : {
+  "comoditySearch" : {
     "success": true,
     "goods": [
     {
-    "barCode": "12345",
-    "code": "12345",
+    "barCode": "5012386",
+    "code": "5012386",
     "name": "Пирожное CHOCO PIE 30г*12/360г/Orion",
     "quantity": 1,
     "price": 131.1,
     "shelfLife": 0,
     "bulkProduct": false,
-    "photo": "\\12345.jpg",
+    "photo": "\\5012386.jpg",
     "department": "08. Кондитерские изделия",
     "supplier": "Сфера-8 ТК ООО",
-    "saleName": ""
-    }
-    ],
-    "message": ""
-  },
-  "comoditySearch56789" : {
-    "success": true,
-    "goods": [
-    {
-    "barCode": "56789",
-    "code": "56789",
-    "name": "Помидоры вес",
-    "quantity": 1.127,
-    "price": 350.50,
-    "shelfLife": 0,
-    "bulkProduct": true,
-    "photo": "\\56789.jpg",
-    "department": "02. Фрукты овощи",
-    "supplier": "Агроном 15",
     "saleName": ""
     }
     ],
