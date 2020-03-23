@@ -5,18 +5,18 @@
     "userName": "dima",
     "userCode": "12345"
   },
-  "comoditySearch" : {
+  "comoditySearch12345" : {
     "success": true,
     "goods": [
     {
-    "barCode": "5012386",
-    "code": "5012386",
+    "barCode": "12345",
+    "code": "12345",
     "name": "Пирожное CHOCO PIE 30г*12/360г/Orion",
     "quantity": 1,
     "price": 131.1,
     "shelfLife": 0,
     "bulkProduct": false,
-    "photo": "\\5012386.jpg",
+    "photo": "\\12345.jpg",
     "department": "08. Кондитерские изделия",
     "supplier": "Сфера-8 ТК ООО",
     "saleName": ""
@@ -24,20 +24,20 @@
     ],
     "message": ""
   },
-  "comoditySearch2" : {
+  "comoditySearch56789" : {
     "success": true,
     "goods": [
     {
-    "barCode": "5012386",
-    "code": "5012386",
-    "name": "Пирожное CHOCO PIE 30г*12/360г/Orion",
-    "quantity": 1,
-    "price": 131.1,
+    "barCode": "56789",
+    "code": "56789",
+    "name": "Помидоры вес",
+    "quantity": 1.127,
+    "price": 350.50,
     "shelfLife": 0,
-    "bulkProduct": false,
-    "photo": "\\5012386.jpg",
-    "department": "08. Кондитерские изделия",
-    "supplier": "Сфера-8 ТК ООО",
+    "bulkProduct": true,
+    "photo": "\\56789.jpg",
+    "department": "02. Фрукты овощи",
+    "supplier": "Агроном 15",
     "saleName": ""
     }
     ],
