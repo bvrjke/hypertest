@@ -43,7 +43,7 @@
     ],
     "message": ""
   },
-   "getAnalytics" : {
+  "getAnalytics" : {
     "success": true,
     "message": "",
     "metrics": [
