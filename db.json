@@ -10,7 +10,7 @@
     "goods": [
     {
     "barCode": "12345",
-    "code": "12345",
+    "code": "12345    ",
     "name": "Пирожное CHOCO PIE 30г*12/360г/Orion",
     "quantity": 1,
     "price": 131.1,
@@ -29,7 +29,7 @@
     "goods": [
     {
     "barCode": "56789",
-    "code": "56789",
+    "code": "56789    ",
     "name": "Помидоры вес",
     "quantity": 1.127,
     "price": 350.50,
@@ -42,5 +42,29 @@
     }
     ],
     "message": ""
-  }
+  },
+   "getAnalytics" : {
+    "success": true,
+    "message": "",
+    "metrics": [
+    {
+    "code": "12345    ",
+    "balance": 114,
+    "quantitySold": 10,
+    "sumSold": 390.9
+    },
+    {
+    "code": "56789    ",
+    "balance": 250,
+    "quantitySold": 150,
+    "sumSold": 100500.50
+    },
+    {
+    "code": "45678    ",
+    "balance": 0,
+    "quantitySold": 0,
+    "sumSold": 0
+    }
+    ]
+    }
 }
