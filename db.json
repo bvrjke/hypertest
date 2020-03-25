@@ -53,12 +53,12 @@
     "quantitySold": 10,
     "sumSold": 390.9,
     "lastSaleDate": "",            
-    "sumBalance": = 0.00,            
-    "lastBuyDate": = "",             
-    "grossProfit": = 0.00,           
-    "markup": = 0.00,                
-    "markupPercent": = 0.00,         
-    "profit": = 0.00  
+    "sumBalance": 0.00,            
+    "lastBuyDate": "",             
+    "grossProfit": 0.00,           
+    "markup": 0.00,                
+    "markupPercent": 0.00,         
+    "profit": 0.00  
     },
     {
     "code": "56789    ",
@@ -66,12 +66,12 @@
     "quantitySold": 150,
     "sumSold": 100500.50,
     "lastSaleDate": "",            
-    "sumBalance": = 0.00,            
-    "lastBuyDate": = "",             
-    "grossProfit": = 0.00,           
-    "markup": = 0.00,                
-    "markupPercent": = 0.00,         
-    "profit": = 0.00 
+    "sumBalance": 0.00,            
+    "lastBuyDate": "",             
+    "grossProfit": 0.00,           
+    "markup": 0.00,                
+    "markupPercent": 0.00,         
+    "profit": 0.00 
     },
     {
     "code": "45678    ",
@@ -79,12 +79,12 @@
     "quantitySold": 0,
     "sumSold": 0,
     "lastSaleDate": "",            
-    "sumBalance": = 0.00,            
-    "lastBuyDate": = "",             
-    "grossProfit": = 0.00,           
-    "markup": = 0.00,                
-    "markupPercent": = 0.00,         
-    "profit": = 0.00 
+    "sumBalance": 0.00,            
+    "lastBuyDate": "",             
+    "grossProfit": 0.00,           
+    "markup": 0.00,                
+    "markupPercent": 0.00,         
+    "profit": 0.00 
     }
     ]
     }
