@@ -19,7 +19,9 @@
     "photo": "\\12345.jpg",
     "department": "08. Кондитерские изделия",
     "supplier": "Сфера-8 ТК ООО",
-    "saleName": ""
+    "saleName": "",
+    "balance": 10,
+    "inBox": 15
     }
     ],
     "message": ""
@@ -38,7 +40,9 @@
     "photo": "\\56789.jpg",
     "department": "02. Фрукты овощи",
     "supplier": "Агроном 15",
-    "saleName": ""
+    "saleName": "",
+    "balance": 20,
+    "inBox": 8
     }
     ],
     "message": ""
