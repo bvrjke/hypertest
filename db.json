@@ -3,7 +3,8 @@
     "success": true,
     "message": "",
     "userName": "dima",
-    "userCode": "12345"
+    "userCode": "12345",
+    "metricsAccess" : true
   },
   "comoditySearch12345" : {
     "success": true,
