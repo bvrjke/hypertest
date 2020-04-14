@@ -92,5 +92,27 @@
     "profit": 0.00 
     }
     ]
-    }
+    },
+  "getCellsList" : {
+    "success": true,
+    "message": "",
+    "cellsList": [
+    {
+    "code": "000111",
+    "name": "00-01-1/1",
+    "barcode": "1000070001111",
+    "shelving": 0,
+    "tier": 1,
+    "position": 1,
+    "place": 1
+    },
+    {
+    "code": "000112",
+    "name": "00-01-1/2",
+    "barcode": "1000070001128",
+    "shelving": 0,
+    "tier": 1,
+    "position": 1,
+    "place": 2
+    }]
 }
